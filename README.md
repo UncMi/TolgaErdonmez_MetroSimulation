@@ -43,7 +43,6 @@ Bu proje, Ankara metrosu üzerinden çeşitli rota hesaplama ve analizlerini ger
     2. Her istasyona ulaşmak için gereken en kısa süreler kaydedilir.
     3. Komşu istasyonlar üzerinden yeni toplam süre hesaplanır.
     4. Hedef istasyona ulaşıldığında, rota ve toplam seyahat süresi geri döndürülür.
-  - **Not:** Projede, kendi oluşturulan basit sezgisel yöntem sayesinde A* algoritması daha işlevsel hale getirilmiştir.
 
 ### Ek Fonksiyonaliteler / Projeyi Geliştiren Fikirler
 
