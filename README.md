@@ -45,7 +45,7 @@ Bu proje, Ankara metrosu üzerinden çeşitli rota hesaplama ve analizlerini ger
     4. Hedef istasyona ulaşıldığında, rota ve toplam seyahat süresi geri döndürülür.
   - **Not:** Projede, kendi oluşturulan basit sezgisel yöntem sayesinde A* algoritması daha işlevsel hale getirilmiştir.
 
-### Ek Fonksiyonaliteler
+### Ek Fonksiyonaliteler / Projeyi Geliştiren Fikirler
 
 - **Koordinat Hesaplama**
   - İstasyonlara, görsel temsili kolaylaştırmak amacıyla x, y koordinatları atanır.
