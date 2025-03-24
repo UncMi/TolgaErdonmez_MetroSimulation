@@ -67,6 +67,7 @@ Bu proje, Ankara metrosu üzerinden çeşitli rota hesaplama ve analizlerini ger
 ---
 
 ## Test Senaryoları
+![Açıklama](images/1.png)
 
 ### 1. AŞTİ'den OSB'ye
 - **En az aktarmalı rota:**  
