@@ -19,6 +19,8 @@ Bu proje, Ankara metrosu üzerinden çeşitli rota hesaplama ve analizlerini ger
   - Metro ağı verisinin düğümler (istasyonlar) ve kenarlar (bağlantılar) şeklinde modellenmesini, analizini ve görselleştirilmesini sağlar.
 - **Random**
   - İhtiyaç duyulduğunda istasyonların koordinatlarını rastgele (ancak anlamlı) belirlemek için destek sunar.
+- **Math**
+  - Çeşitli matematiksel fonksiyonların kullanımını sağlar
 
 ---
 
@@ -82,6 +84,11 @@ Bu proje, Ankara metrosu üzerinden çeşitli rota hesaplama ve analizlerini ger
 - **En hızlı rota (25 dakika):**  
   Aynı rota, toplam süre 25 dakika
 
+<div style="display: flex;">
+  <img src="images/2.png" alt="Resim 1" width="300" style="margin-right: 10px;">
+  <img src="images/3.png" alt="Resim 2" width="300">
+</div>
+
 ### 2. Batıkent'ten Keçiören'e
 - **En az aktarmalı rota:**  
   `Batıkent -> Demetevler -> Gar -> Keçiören`
@@ -93,6 +100,14 @@ Bu proje, Ankara metrosu üzerinden çeşitli rota hesaplama ve analizlerini ger
   - **Toplam:** 4 istasyon, 0 aktarma
 - **En hızlı rota (21 dakika):**  
   Aynı rota, toplam süre 21 dakika
+
+<div style="display: flex;">
+  <img src="images/4.png" alt="Resim 4" width="300" style="margin-right: 10px;">
+  <img src="images/5.png" alt="Resim 5" width="300">
+</div>
+--- 
+Ek senaryolar
+![Açıklama](images/13.png)
 
 ### 3. Keçiören'den AŞTİ'ye
 - **En az aktarmalı rota:**  
@@ -106,6 +121,10 @@ Bu proje, Ankara metrosu üzerinden çeşitli rota hesaplama ve analizlerini ger
   - **Toplam:** 6 istasyon, 1 aktarma
 - **En hızlı rota (19 dakika):**  
   Aynı rota, toplam süre 19 dakika
+<div style="display: flex;">
+  <img src="images/7.png" alt="Resim 7" width="300" style="margin-right: 10px;">
+  <img src="images/8.png" alt="Resim 8" width="300">
+</div>
 
 ### 4. OSB'den Batıkent'e
 - **En az aktarmalı rota:**  
@@ -121,6 +140,10 @@ Bu proje, Ankara metrosu üzerinden çeşitli rota hesaplama ve analizlerini ger
     - Demetevler üzerinden aktarma (Kırmızı’dan Turuncuya): 8 + 3 dakika
     - Batıkent: 7 dakika
   - **Toplam:** 4 istasyon, 1 aktarma
+<div style="display: flex;">
+  <img src="images/9.png" alt="Resim 9" width="300" style="margin-right: 10px;">
+  <img src="images/10.png" alt="Resim 10" width="300">
+</div>
 
 ### 5. Kızılay'dan Keçiören'e
 - **En az aktarmalı rota:**  
@@ -131,6 +154,11 @@ Bu proje, Ankara metrosu üzerinden çeşitli rota hesaplama ve analizlerini ger
   - **Toplam:** 2 istasyon, 1 aktarma
 - **En hızlı rota (15 dakika):**  
   Aynı rota, toplam süre 15 dakika
+
+ <div style="display: flex;">
+  <img src="images/11.png" alt="Resim 11" width="300" style="margin-right: 10px;">
+  <img src="images/12.png" alt="Resim 12" width="300">
+</div>
 
 ### Ağ Analizi
 - **En Kalabalık İstasyonlar:**  
